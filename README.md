@@ -1,12 +1,11 @@
 # Fragment2FragmentCommunication
 <b>Passing Data between Fragments through interface</b>
-<br>
 <ol type="1">
 <li>
-<ul>
+
 I have one activity - MainActivity. Within this Activity I have two fragments, both of which I created declaratively within the xml.
 I am trying to pass the String of text input by the user into Fragment A & show textview in Fragment B.
-</ul>
+
 </li>
 <b>|---------------------|</b>
 <b>Rules :              | </b> 
